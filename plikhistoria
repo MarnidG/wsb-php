@@ -1,0 +1,7 @@
+    1  alias c=clear
+    2  c
+    3  c
+    4  git clone https://github.com/MarnidG/wsb-php.git
+    5  ls
+    6  cd wsb-php
+    7  history > plikhistoria
